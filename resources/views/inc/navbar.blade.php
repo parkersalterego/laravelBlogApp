@@ -20,7 +20,7 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/posts/create">Create Post</a></li>
+                <li><a class="btn btn-primary" href="/posts/create">Create Post</a></li>
             </ul>
         </div>
     </div>
