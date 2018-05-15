@@ -20,6 +20,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/">Home</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/posts">Blog</a>
+                    </li>
                     @else
                     <div class="nav-item">
                         <a class="nav-link" href="/home">Home</a>
